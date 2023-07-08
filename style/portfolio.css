@@ -7,6 +7,7 @@ h3{
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0 200px;
 }
 nav ul{
     display: flex;
@@ -31,4 +32,17 @@ nav a{
 }
 nav li{
     margin-right: 50px;
+}
+.header{
+    background-color: #FFF8F3;
+    
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+
+}
+.pic{
+    width: 300px;
 }
